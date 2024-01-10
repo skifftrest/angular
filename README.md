@@ -1,2 +1,2 @@
 # angular
-trying FE development
+FE development
