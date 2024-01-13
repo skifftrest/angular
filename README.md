@@ -1,2 +1,2 @@
 # angular
-FE development
+development
